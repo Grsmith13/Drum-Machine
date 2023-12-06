@@ -19,7 +19,5 @@ const drum = {
   x: { sound: new Audio(audio8), description: "Kick and Hat" },
   c: { sound: new Audio(audio9), description: "RP4 KICK" },
 };
-// const chooseAudio = () => {
-//     if
-// }
+
 export default drum;
